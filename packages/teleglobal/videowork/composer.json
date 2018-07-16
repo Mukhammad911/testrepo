@@ -1,0 +1,23 @@
+{
+  "name": "teleglobal/videowork",
+  "description": "Teleglobal VideoWork package",
+  "require-dev": {
+    "illuminate/support": "^5.6"
+  },
+  "authors": [
+    {
+      "name": "Muhammad.Yakubov",
+      "email": "muhammad.yakubov91@gmail.com"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Teleglobal\\Videowork\\VideoWorkServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {}
+
+}
